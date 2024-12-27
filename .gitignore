@@ -1,0 +1,10 @@
+migrations/
+venv/
+__pycache__/
+.env
+*.sqlite3
+*.pyc
+*.pyo
+*.pyd
+firebase_key.json
+faiss_index/
