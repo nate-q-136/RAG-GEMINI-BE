@@ -37,7 +37,7 @@ A backend service for chat applications using Google Gemini Pro with Retrieval A
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/rag-gemini-backend.git
+git clone https://github.com/nate-q-136/RAG-GEMINI-BE.git
 cd rag-gemini-backend
 ```
 
@@ -149,7 +149,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 👥 Authors
 
-- **Your Name** – [GitHub](https://github.com/your-username)
+- **Nate-Q** – [GitHub](https://github.com/nate-q-136)
 
 ## 🙏 Acknowledgments
 
