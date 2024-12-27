@@ -31,7 +31,8 @@ A backend service for chat applications using Google Gemini Pro with Retrieval A
 
 - Python 3.8+
 - Redis server (for WebSocket management)
-- Google Cloud API key
+- Google Gemini API key
+- Firbase Credentials key
 
 ### Setup Steps
 
