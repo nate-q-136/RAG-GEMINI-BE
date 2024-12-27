@@ -59,7 +59,7 @@ pip install -r requirements.txt
 SECRET_KEY = django-secretkey
 GEMINI_API_KEY=your_gemini_api_key
 GEMINI_MODEL=gemini_model_available
-FIRBASE_KEY = path_to_key_firebase_json
+FIREBASE_KEY = path_to_key_firebase_json
 ```
 
 5. **Run Migrations**
