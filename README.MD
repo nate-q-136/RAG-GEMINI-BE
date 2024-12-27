@@ -60,6 +60,7 @@ SECRET_KEY = django-secretkey
 GEMINI_API_KEY=your_gemini_api_key
 GEMINI_MODEL=gemini_model_available
 FIREBASE_KEY = path_to_key_firebase_json
+FIREBASE_BUCKET_URL = your-app.appspot.com
 ```
 
 5. **Run Migrations**

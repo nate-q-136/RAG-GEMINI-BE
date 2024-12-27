@@ -9,7 +9,7 @@ load_dotenv()
 if not firebase_admin._apps:
     credentials_firebase = credentials.Certificate(os.getenv("FIREBASE_KEY"))
     firebase_admin.initialize_app(
-        credentials_firebase, {"storageBucket": "chat-app-react-cc93a.appspot.com"}
+        credentials_firebase, {"storageBucket": os.getenv("FIREBASE_BUCKET_URL")}
     )
 storage_firebase = storage.bucket()
 firestore_db = firebase_admin.firestore.client()
