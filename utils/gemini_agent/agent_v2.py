@@ -3,7 +3,7 @@ from langchain.document_loaders import CSVLoader, PyPDFLoader, Docx2txtLoader
 from utils.gemini_agent.config_v2 import gemini
 from langchain.embeddings import HuggingFaceEmbeddings
 from langchain.vectorstores import FAISS
-from langchain.prompts import PromptTemplate
+from langchain.prompts import PromptTemplate, ChatPromptTemplate
 from langchain.chains.retrieval_qa.base import RetrievalQA
 from langchain.docstore.in_memory import InMemoryDocstore
 from langchain.schema.runnable import RunnableSequence

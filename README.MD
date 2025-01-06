@@ -1,4 +1,4 @@
-# RAG Gemini Backend
+# GeChat Backend
 
 A backend service for chat applications using Google Gemini Pro with Retrieval Augmented Generation (RAG) capabilities. This system enables users to engage in AI-driven conversations and upload documents, allowing AI to answer queries based on the document content.
 
