@@ -110,7 +110,7 @@ tenacity==9.0.0
 threadpoolctl==3.5.0
 tokenizers==0.21.0
 tomli==2.2.1
-torch==2.4.0
+torch==2.2.2
 tqdm==4.67.1
 transformers==4.47.1
 Twisted==24.11.0
