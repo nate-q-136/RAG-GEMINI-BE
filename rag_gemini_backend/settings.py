@@ -46,6 +46,8 @@ INSTALLED_APPS = [
     'rag_gemini_services',
 
 ]
+SESSION_ENGINE = 'django.contrib.sessions.backends.db'
+SESSION_COOKIE_NAME = 'sessionid'
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
